@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NielsLeenheer/EscPosEncoder.git"
+    "url": "git+https://github.com/reyzeal/EscPosEncoder.git"
   },
   "keywords": [
     "pos",
@@ -33,9 +33,9 @@
   "author": "Niels Leenheer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NielsLeenheer/EscPosEncoder/issues"
+    "url": "https://github.com/reyzeal/EscPosEncoder/issues"
   },
-  "homepage": "https://github.com/NielsLeenheer/EscPosEncoder#readme",
+  "homepage": "https://github.com/reyzeal/EscPosEncoder#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.1.0",
     "@rollup/plugin-node-resolve": "^15.0.2",
@@ -47,9 +47,6 @@
     "rollup": "^3.20.7"
   },
   "dependencies": {
-    "canvas": "^2.11.2",
-    "canvas-dither": "^1.0.1",
-    "canvas-flatten": "^1.0.1",
     "codepage-encoder": "^2.0.4",
     "linewrap": "^0.2.1"
   },
